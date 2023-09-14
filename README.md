@@ -1,9 +1,10 @@
 # Glitch Game
 # Table of contents
 1. [Introduction](#introduction)
-2. [Audience](#audience)
-3. [Similar Games](#similargames)
-4. [Video Game Graphics](#graphics)
+2. [Installation](#installation)
+3. [Audience](#audience)
+4. [Similar Games](#similargames)
+5. [Video Game Graphics](#graphics)
   
 ## Title, Genre, and Relevance of the Game: <a name="introduction"></a>
 #### Title
@@ -15,6 +16,20 @@ This game will encourage players to enhance spatial visualization, react quickly
 problems, and solve them accordingly. These mentioned 
 motivations are beneficial and necessary for our everyday life. Additionally, the game will 
 teach players not to trust everything that catches their eye.
+
+## Installation: <a name="installation"></a>
+To play **The Glitch**, follow these steps:
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/vestinabert/The_Glitch_Game.git
+```
+Open the project in Unity.
+
+Set up the Unity environment as needed (ensure you have the correct version of Unity installed).
+
+Build and run the game within Unity or export it to your desired platform.
 
 ## Audience: <a name="audience"></a>
 Players over the age of 10 who are interested in virtual reality and enjoy platformer games.
