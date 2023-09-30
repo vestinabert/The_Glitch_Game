@@ -49,15 +49,10 @@ viruses. Only by solving puzzles and avoiding traps will players be able to adva
 
 ## Video Game Graphics: <a name="graphics"></a>
 #### UI
-![UI](https://github.com/vestinabert/GlitchGame/assets/127593981/1951e51b-d749-48d3-9d81-c84bf306d9e8)
+![UI](https://github.com/vestinabert/The_Glitch_Game/assets/127593981/66f822a8-c5c5-4d61-899d-9b2014cc42be)
 
-#### Traps
-![Traps](https://github.com/vestinabert/GlitchGame/assets/127593981/d5f21d2f-3fc1-4e8f-93eb-0d53e2663614) 
-<br><br>
-![Firetraps](https://github.com/vestinabert/GlitchGame/assets/127593981/272c8dae-d393-4932-b501-3c6fb73419ea)
 
 #### Enemies
-![Enemies](https://github.com/vestinabert/GlitchGame/assets/127593981/d69b42f3-39b8-4194-a152-8ad1e2994201) 
-<br><br>
-![ILOVEYOU](https://github.com/vestinabert/GlitchGame/assets/127593981/2e4f558e-1e0f-4235-83cc-fa525e200743)
+![enemy](https://github.com/vestinabert/The_Glitch_Game/assets/127593981/34848e3c-063b-4096-9d63-8e0507ba1134)
 
+![iloveyou](https://github.com/vestinabert/The_Glitch_Game/assets/127593981/9d95c698-1383-4329-8e6c-67067a6d790a)
